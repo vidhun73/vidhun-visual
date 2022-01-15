@@ -1,0 +1,26 @@
+.clr1{
+background-color: lightskyblue;
+text-align:left;
+padding-left: 70px;
+
+
+}
+.clr2{
+    background-color: rgba(41, 44, 194, 0.808);
+    color: lightcyan;
+    padding: 40px;
+    text-align: center;
+    padding: 40px;
+
+    
+}
+.container{
+    display: grid;
+    flex-direction: column;
+    
+    padding: 40px;
+    
+    
+
+
+}

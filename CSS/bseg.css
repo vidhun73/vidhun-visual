@@ -1,0 +1,6 @@
+.img-width{
+    width:50%;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    
+}

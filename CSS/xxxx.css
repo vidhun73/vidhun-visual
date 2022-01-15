@@ -1,0 +1,11 @@
+.clr1{
+    background-color: greenyellow;
+
+}
+.clr3{
+    background-color: grey;
+}
+.container{
+    display: grid;
+    grid-template-columns: 20px 20px;
+}

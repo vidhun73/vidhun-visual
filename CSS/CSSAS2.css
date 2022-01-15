@@ -1,0 +1,32 @@
+
+.clr1{
+    background-color: rgb(223, 27, 27);
+    color: rgb(190, 187, 211);
+    column-gap: 50px;
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 300px;
+   
+}
+.clr2{
+    background-color: rgb(49, 49, 216);
+    color: black;
+    text-align: left;
+    padding: 20px;
+    margin-left: 200px;
+    margin-bottom: 100px;
+    margin-right: 300px;
+    display: flex;
+
+}
+.clr3{
+    padding: 10px;
+    margin: 10px;
+    text-align: justify;
+    padding-left: 180px;
+}
+.clr4{
+    padding: 10px;
+    margin: 07px;
+    padding-left: 200px;
+}
