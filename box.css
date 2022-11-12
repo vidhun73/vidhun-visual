@@ -1,0 +1,12 @@
+div h1{
+    background-color: blue;
+    color: chartreuse;
+    text-indent: 20px;
+}
+div form{
+    background-color: rgba(50, 170, 39, 0.486);
+    color: rgb(49, 15, 241);
+    text-align: center;
+    line-height: 20px;
+    word-spacing: 7px;
+}
